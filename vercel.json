@@ -3,6 +3,7 @@
     { "source": "/terms.html/:path+", "destination": "/:path+" },
     { "source": "/privacy.html/:path+", "destination": "/:path+" },
     { "source": "/oauth/callback", "destination": "/oauth/callback.html" },
-    { "source": "/oauth/callback/:path+", "destination": "/:path+" }
+    { "source": "/oauth/callback/:path+", "destination": "/:path+" },
+    { "source": "/oauth/callback.html/:path+", "destination": "/:path+" }
   ]
 }
