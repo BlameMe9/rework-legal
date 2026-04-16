@@ -1,6 +1,7 @@
 {
   "rewrites": [
     { "source": "/terms.html/:path+", "destination": "/:path+" },
-    { "source": "/privacy.html/:path+", "destination": "/:path+" }
+    { "source": "/privacy.html/:path+", "destination": "/:path+" },
+    { "source": "/oauth/callback", "destination": "/oauth/callback.html" }
   ]
 }
